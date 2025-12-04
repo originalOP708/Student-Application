@@ -1,1 +1,7 @@
-.
+The framework uses the NIST Cybersecurity Framework (Identify, Protect, Detect, Respond, Recover) tailored for resource-constrained SMEs.
+
+Risks are prioritized using a Likelihood x Impact matrix, scoring threats like Phishing and Ransomware as Critical.
+
+Core mitigation focuses on Mandatory MFA (Multi-Factor Authentication) and robust, regular Employee Training and Phishing Simulations.
+
+The final output is an Actionable Roadmap and Incident Response Plan to achieve affordable security resilience.
