@@ -1,2 +1,2 @@
-# Student-Application
-Classroom Demo: Enter fictional info only. Both fields are mandatory.
+# Cybersecurity Project
+1.Phishing Awareness Simulation Using Social Engineering Techniques"
